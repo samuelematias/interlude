@@ -1,3 +1,5 @@
+<img src="docs/assets/logo.jpg" alt="interlude theme logo" title="&quot;Pascal&quot;" width="100" align="right" />
+
 # Interlude Theme
 
 > _A theme to be used on websites built with [Hugo](https://gohugo.io/)._
