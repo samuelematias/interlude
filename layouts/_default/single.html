@@ -8,7 +8,7 @@
       {{ $slug := strings.TrimPrefix "/notes/" .RelPermalink }}
       {{ $slug := strings.TrimSuffix "/" $slug }}
       {{ if (findRE  "/notes/" .RelPermalink) }}
-      <small><a href="{{ $.Site.Params.repo }}/edit/master/notes/{{ $slug }}.org">Edit this page on GitHub</a></small>
+      <small><a href="{{ $.Site.Params.repo }}/edit/main/notes/{{ $slug }}.org">Edit this page on GitHub</a></small>
       {{ end }}
     </div>
     {{ partial "backlinks.html" . }}
