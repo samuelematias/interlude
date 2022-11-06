@@ -4,7 +4,7 @@
 
 > _A theme to be used on websites built with [Hugo](https://gohugo.io/)._
 
-Theme used on my [my braindump](https://github.com/samuelematias/braindump).
+Theme used on my [my braindump](https://github.com/samuelematias/samuelematias.github.io).
 </br>
 Currently, largely copied from [ayrat555/cortex-dark](https://github.com/ayrat555/cortex-dark).
 
